@@ -24,7 +24,11 @@
 
 * To use this script, you'll first need to have Node.js installed on your computer. Then, follow these steps 
 
-  * Copy and paste the script code into a file with a .js extension, for example, generateReadme.js.
+  * Copy and paste the script code into a file with a .js extension, for example, index.js
+
+  or
+  * clone the repo: git clone https://github.com/ramonsaguini/readmeGenerator.git
+  
   * Open your terminal and navigate to the directory where you saved the file. >>  Run npm install inquirer in the terminal to install the necessary dependency for interactive prompts. 
   * After installing inquirer, you can run the script by typing node generateReadme.js in the terminal.
   * The script will start asking interactive questions related to your project. 
