@@ -83,6 +83,8 @@ function generateMarkdown(answers) {
 # ${answers.title}
 ${licenseBadge}
 
+<div style="text-align:center">
+
 ![Project Image](${answers.image})
 
 ## Description
