@@ -69,8 +69,19 @@ function promptUser() {
 }
 
 function generateMarkdown(answers) {
+
+  const licenseBadges = {
+    MIT: '[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)',
+    'Apache 2.0': '[![License](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](https://opensource.org/licenses/Apache-2.0)',
+    'GPL 3.0': '[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-green.svg)](https://www.gnu.org/licenses/gpl-3.0)',
+    None: ''
+  };
+
+  const licenseBadge = licenseBadges[answers.license];
+
   return `
 # ${answers.title}
+${licenseBadge}
 
 ![Project Image](${answers.image})
 
