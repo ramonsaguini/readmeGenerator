@@ -6,6 +6,8 @@
 
 ![Project Image](/fullscreen.jpg)
 
+</div>
+
 ## Description
 
     The provided script is a Node.js application that generates a README.md file for a project based on user input.
