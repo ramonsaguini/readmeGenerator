@@ -122,7 +122,7 @@ function init() {
   promptUser()
     .then((answers) => {
       const html = generateMarkdown(answers);
-      fs.writeFile('README.md', html, (err) => {
+      fs.writeFile('newReadme.md', html, (err) => {
         if (err) {
           console.error(err);
         } else {
