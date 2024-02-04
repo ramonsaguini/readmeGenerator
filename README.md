@@ -22,6 +22,16 @@
 
 ## Installation
 
+    
+<div style="text-align:center; width: 500px;
+  height: 500px">
+
+
+    Click to Watch the video 
+  [![](./screenshotVideo.png)](https://www.youtube.com/watch?v=ELbqUAILM_E&t=9s)
+
+</div>
+
 * To use this script, you'll first need to have Node.js installed on your computer. Then, follow these steps 
 
   * Copy and paste the script code into a file with a .js extension, for example, index.js
