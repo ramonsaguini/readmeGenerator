@@ -28,7 +28,7 @@
 
 
     Click to Watch the video 
-  [![](./screenshotVideo.png)](https://www.youtube.com/watch?v=ELbqUAILM_E&t=9s)
+  [![](./screenshotVideo.png)](https://www.youtube.com/watch?v=ELbqUAILM_E&t=0s)
 
 </div>
 
