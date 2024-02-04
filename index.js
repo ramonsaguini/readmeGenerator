@@ -87,6 +87,8 @@ ${licenseBadge}
 
 ![Project Image](${answers.image})
 
+</div>
+
 ## Description
 ${answers.description}
 
